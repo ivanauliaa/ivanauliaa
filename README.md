@@ -15,7 +15,7 @@
 ### <div align="center">Web developer 👨‍💻 who always interested to learning something new 🚀</div>  
   
 
-- 🌱 Currently learning: Laravel, Golang, Node.JS, Docker
+- 🌱 Currently learning: GDRP tech stack
   
 
 - ⚡ Fun fact: Marvel Cinematic Universe (MCU) fanboy  
