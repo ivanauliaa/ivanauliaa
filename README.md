@@ -12,16 +12,16 @@
 </a>  
 </div>
 
-### <div align="center">Web developer 👨‍💻 who always interested to learning something new 🚀</div>  
+### <div align="center">A fullstack developer 👨‍💻 who always interested to learning something new 🚀</div>  
   
 
 - 🌱 Currently learning: GDRP tech stack
   
 
-- ⚡ Fun fact: Marvel Cinematic Universe (MCU) fanboy  
+- ⚡ Fun fact: Marvel Cinematic Universe (MCU) fanboy
   
 
-- ❓ Let's discuss about related technologies, social connection, or MCU's multiverse of madness  
+- ❓ Let's discuss about related technologies, social connection, or multiverse of madness  
   
 
 <br/> 
