@@ -13,24 +13,14 @@
 </div>
 
 ### <div align="center">A Full Stack Developer 👨‍💻 who always interested to learning something new 🚀</div>  
-  
 
 - 🌱 Currently learning: GDRP tech stack
-  
-
 - ⚡ Fun fact: Marvel Cinematic Universe (MCU) fanboy
-  
-
 - ❓ Let's discuss about related technologies, social connection, or multiverse of madness  
-  
 
 <br/> 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ivanauliaa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ivanauliaa&&style=flat-square" align="center" />
-</div>  
+![Ivan Aulia Rahman's Stat](https://github-readme-stats.vercel.app/api?username=ivanauliaa&show_icons=true&theme=github_dark&hide_border=true?include_all_commits=true)
 
 ## Skills & Tools
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -49,9 +39,12 @@
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+----
 
 <div align="center">
-<p>Get in Touch</p>
+  
+### <div align="center">Get in Touch</div>
+  
 <a href="https://twitter.com/ivanauliaaa" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter ivanauliaa Ivan Aulia Rahman" style="margin-bottom: 5px;"/>
 </a>
@@ -59,7 +52,3 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail email ivanar6542@gmail.com Ivan Aulia Rahman" style="margin-bottom: 5px;"/>
 </a>
 </div>
-
-----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
