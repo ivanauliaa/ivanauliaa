@@ -12,7 +12,7 @@
 </a>  
 </div>
 
-### <div align="center">A Full Stack Developer 👨‍💻 who always interested to learn something new 🚀</div>  
+### <div align="center">A Back-end Developer 👨‍💻 who always interested to learn something new 🚀</div>  
 
 - 🌱 Currently learning: GDRP tech stack
 - ⚡ Fun fact: Marvel Cinematic Universe (MCU) fanboy
