@@ -1,4 +1,4 @@
-![Ivan Aulia Rahman](./banner.png)
+![Ivan Aulia Rahman](./github_banner.png)
 
 <div align="center">
 <a href="https://ivanauliaa.netlify.app" target="_blank">
