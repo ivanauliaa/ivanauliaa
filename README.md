@@ -1,4 +1,4 @@
-![Ivan Aulia Rahman](./github_banner.png)
+![Ivan Aulia Rahman](./github_baru.png)
 
 <div align="center">
 <a href="https://ivanauliaa.netlify.app" target="_blank">
@@ -18,43 +18,42 @@
 </a>
 </div>
 
-### <div align="center">A Back-end Developer 👨‍💻 who always interested to learn something new 🚀</div>  
+### <div align="center">A Back-end Engineer 👨‍💻 who always interested to learn something new 🚀</div>
 
-- 🌱 Currently learning: GDRP tech stack
-- ⚡ Fun fact: Marvel Cinematic Universe (MCU) fanboy
-- ❓ Let's discuss about related technologies, social connection, or multiverse of madness  
+- 🌱 Currently learning: Back-End Service with clean architecture, automation testing, and CI/CD
+- ⚡ Fun fact: Marvel Cinematic Universe (MCU) holic
+- 🎯 I'm open for a project consultation session
+- ❓ Let's discuss about related technologies, social connection, or secret wars & kang dynasty
 
-<br/> 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ivanauliaa&show_icons=true&theme=github_dark&hide_border=true?include_all_commits=true" alt="ivanauliaa ivan aulia rahman github stat stats"></img>
+</div>
 
-![Ivan Aulia Rahman's Stat](https://github-readme-stats.vercel.app/api?username=ivanauliaa&show_icons=true&theme=github_dark&hide_border=true?include_all_commits=true)
+<div align="center">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></img>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></img>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></img>
+</div>
 
-## Skills & Tools
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-----
+---
 
 <div align="center">
   
-### <div align="center">Get in Touch</div>
-
+### <div align="center">Follow and Subscribe for weekly software development content from me</div>
 <a href="https://instagram.com/ivanauliaa.dev" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram ivanauliaa.dev Ivan Aulia Rahman" style="margin-bottom: 5px;"/>
 </a>
-<a href="https://twitter.com/ivanauliaaa" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter ivanauliaa Ivan Aulia Rahman" style="margin-bottom: 5px;"/>
+<a href="https://www.youtube.com/channel/UCnTUAVecF2J7FNUWG9iD0TA" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="youtube ivanauliaa.dev CODEA Ivan Aulia Rahman" style="margin-bottom: 5px;"/>
 </a>
+
+### <div align="center">Get in Touch</div>
+
 <a href="mailto:ivanar6542@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail email ivanar6542@gmail.com Ivan Aulia Rahman" style="margin-bottom: 5px;"/>
 </a>
