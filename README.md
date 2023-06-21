@@ -1,12 +1,18 @@
-![Ivan Aulia Rahman](./github_baru_lagi.png)
+![Ivan Aulia Rahman](./GitHub%20Baru%20Lagi%20Bro.png)
+
+<br>
 
 <div align="center">
 <a href="https://ivanauliaa.netlify.app" target="_blank">
-<img src=https://img.shields.io/badge/Personal_Page-00C7B7?style=for-the-badge&logo=netlify&logoColor=white alt="netlify personal page portfolio ivanauliaa Ivan Aulia Rahman" style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Profile-00C7B7?style=for-the-badge&logo=netlify&logoColor=white alt="netlify personal page portfolio ivanauliaa Ivan Aulia Rahman" style="margin-bottom: 5px;" />
+</a>
+<a href="https://gorgeous-nigella-8d6.notion.site/Ivan-Aulia-Rahman-741d48d607424af3bdc59a19591ff0e4" target="_blank">
+<img src=https://img.shields.io/badge/Resume-333333?style=for-the-badge&logo=notion&logoColor=white alt="notion professional resume backend developer software engineer golang nodejs docker cicd kubernetes ivanauliaa Ivan Aulia Rahman" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ivanauliaa" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin ivanauliaa Ivan Aulia Rahman" style="margin-bottom: 5px;" />
 </a>
+<br>
 <a href="https://github.com/ivanauliaa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="github project repository ivanauliaa Ivan Aulia Rahman" style="margin-bottom: 5px;" />
 </a>
@@ -18,29 +24,22 @@
 </a>
 </div>
 
+<br>
+
 ### <div align="center">A Back-end Engineer 👨‍💻 who always interested to learn something new 🚀</div>
 
 - 🌱 Currently learning: Back-End Service with clean architecture, automation testing, and CI/CD
-- ⚡ Fun fact: Marvel Cinematic Universe (MCU) holic
-- 🎯 I'm open for a project consultation session
-- ❓ Let's discuss about related technologies, social connection, or secret wars & kang dynasty
+- ⚡ Fun fact: Preferring UNIX environment while working on a digital product development
+- 🎯 I'm open for a project discussion
+- ❓ Let's discuss about Beyond The Spider-Verse 🕷️ 🕸️
+
+<br>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ivanauliaa&show_icons=true&theme=github_dark&hide_border=true?include_all_commits=true" alt="ivanauliaa ivan aulia rahman github stat stats"></img>
 </div>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></img>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></img>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></img>
-</div>
-
----
+<br>
 
 <div align="center">
   
